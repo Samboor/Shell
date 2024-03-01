@@ -1,2 +1,4 @@
 # SO-shell
-Template for the shell project in Operating Systems course at tcs@JU.
+Shell project created for 'Operating Systems' course at tcs@JU.
+
+Input parser and tests were supplied as a course material. 
